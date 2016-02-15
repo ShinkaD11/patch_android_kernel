@@ -17,4 +17,4 @@ Step 1. save this patch folder to kernel_source/patch
 Step 2. cd Kernel_source/patch
    
 
-Step 3. ./patch and keep pressing enter until you pacthing is compleated :D
+Step 3. ./patch and keep pressing enter until you pacthing is completed :D
