@@ -75,3 +75,13 @@ patch -p1 <patch/patch-3.4.76-77
 patch -p1 <patch/patch-3.4.77-78
 patch -p1 <patch/patch-3.4.78-79
 patch -p1 <patch/patch-3.4.79-80
+echo "##########################"
+echo "##########################"
+echo "##########################"
+echo "This patch is for fixing compile error"
+echo "##########################"
+echo "##########################"
+patch -p1 <patch/error
+echo "##########################"
+echo "##########################"
+echo "Patching kernel finished"
