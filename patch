@@ -62,20 +62,6 @@ patch -p1 <patch/patch-3.4.63-64
 patch -p1 <patch/patch-3.4.64-65
 patch -p1 <patch/patch-3.4.65-66
 patch -p1 <patch/patch-3.4.66-67
-patch -p1 <patch/patch-3.4.67-68
-patch -p1 <patch/patch-3.4.68-69
-patch -p1 <patch/patch-3.4.69-70
-patch -p1 <patch/patch-3.4.70-71
-patch -p1 <patch/patch-3.4.71-72
-patch -p1 <patch/patch-3.4.72-73
-patch -p1 <patch/patch-3.4.73-74
-patch -p1 <patch/patch-3.4.74-75
-patch -p1 <patch/patch-3.4.75-76
-patch -p1 <patch/patch-3.4.76-77
-patch -p1 <patch/patch-3.4.77-78
-patch -p1 <patch/patch-3.4.78-79
-patch -p1 <patch/patch-3.4.79-80
-patch -p1 <patch/patch-3.4.80-81
 echo "##########################"
 echo "##########################"
 echo "##########################"
