@@ -68,7 +68,4 @@ echo "##########################"
 echo "This patch is for fixing compile error"
 echo "##########################"
 echo "##########################"
-patch -p1 <patch/error
-echo "##########################"
-echo "##########################"
 echo "Patching kernel finished"
